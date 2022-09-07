@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'BasicAuthorization'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9DB0C3DF8DD4ACC920A5498E67209C0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_251DFB2A401143B2BD02A942725125FE }}
           package: .
